@@ -31,7 +31,7 @@ USER bitcoin
 
 VOLUME ["/bitcoin"]
 
-EXPOSE 8332 8333 18332 18333
+EXPOSE 18080 18080
 
 WORKDIR /bitcoin
 
